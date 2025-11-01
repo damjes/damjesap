@@ -28,6 +28,6 @@ Utilizatorul folosește lucrarea pe propriul risc.
 
 ---
 
-Copyleft 2025 Damjes
+Copyleft 2025 Rev. Damjes
 
 Acest text este el însuși liber și poate fi distribuit în aceleași condiții.
