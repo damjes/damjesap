@@ -26,6 +26,8 @@ including, among other things, a mention of the original author’s name and any
 5. The work is provided *as is*, without any express or implied warranty.
 The user uses the work at their own risk.
 
+---
+
 Copyleft 2025 Damjes
 
 This text itself is free and may be distributed under the same terms.
