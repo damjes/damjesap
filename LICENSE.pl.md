@@ -1,4 +1,4 @@
-*Ten tekst to tłumaczenie na język polski. Obowiązujący jest oryginał w Esperanto (plik `LICENSE.md`).*
+*Ten tekst to oficjalne tłumaczenie na język polski. Obowiązujący jest oryginał w Esperanto (plik `LICENSE.md`).*
 
 DamjesaP – Licencja Damjesa v. 2.0
 ==================================
