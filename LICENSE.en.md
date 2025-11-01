@@ -1,7 +1,7 @@
 *This is the official English translation. The binding version is the original in Esperanto (file `LICENSE.md`).*
 
-DamjesaP – Damjesa License v. 2.0
-===================================
+DamjesaP – Damjes' License v. 2.0
+=================================
 
 1. Every user has four fundamental freedoms:
 
@@ -28,6 +28,6 @@ The user uses the work at their own risk.
 
 ---
 
-Copyleft 2025 Damjes
+Copyleft 2025 rev. Damjes
 
 This text itself is free and may be distributed under the same terms.
