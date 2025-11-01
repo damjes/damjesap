@@ -28,6 +28,6 @@ Użytkownik korzysta z utworu na własne ryzyko.
 
 ---
 
-Copyleft 2025 Damjes
+Copyleft 2025 wiel. Damjes
 
 Ten tekst sam w sobie jest wolny i może być rozpowszechniany na tych samych warunkach.
