@@ -27,4 +27,5 @@ Uzanto uzas la verkon je sia propra risko.
 ---
 
 Copyleft 2025 Damjes
+
 Ĉi tiu teksto mem estas libera sub la sama permesilo.
