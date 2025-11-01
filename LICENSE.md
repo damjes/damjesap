@@ -8,7 +8,7 @@ DamjesaP – Damjesa Permesilo v. 1.9
 	1. La libereco studi kiel la verko funkcias kaj ŝanĝi ĝin laŭ siaj bezonoj.
 	Atingebleco de la fonta formo de la verko estas antaŭkondiĉo por tio ĉi.
 	
-	2. La libereco distribui kopiojn, por ke la uzanto ekzemple povu helpi sian najbaron.
+	2. La libereco distribui kopiojn, por ke la uzanto ekzemple povu helpi siajn najbaron.
 	
 	3. La libereco plibonigi la verkon kaj kundividi siajn plibonigojn kun ĉiuj.
 	Atingebleco de la fonta formo de la verko estas antaŭkondiĉo por tio ĉi.
