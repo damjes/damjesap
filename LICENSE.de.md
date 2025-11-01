@@ -10,7 +10,7 @@ DamjesaP – Damjesa-Lizenz v. 2.0
 	1. Die Freiheit, zu untersuchen, wie das Werk funktioniert, und es nach den eigenen Bedürfnissen zu verändern.
 	Der Zugang zur Quellform des Werkes ist eine Voraussetzung für diese Freiheit.
 	
-	2. Die Freiheit, Kopien zu verbreiten, damit der Benutzer zum Beispiel seinem Nachbarn helfen kann.
+	2. Die Freiheit, Kopien zu verbreiten, damit der Benutzer, zum Beispiel, seinem Nachbarn helfen kann.
 	
 	3. Die Freiheit, das Werk zu verbessern und die eigenen Verbesserungen mit allen zu teilen.
 	Der Zugang zur Quellform des Werkes ist eine Voraussetzung für diese Freiheit.
