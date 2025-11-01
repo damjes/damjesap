@@ -16,4 +16,10 @@ DamjesaP – Damjesa Permesilo v. 1.9
 2. Neniu rajtas nuligi aŭ limigi iun el la supraj liberecoj por iu ajn.
 
 3. Neniu rajtas permesi, ke tiuj liberecoj estu nuligitaj aŭ limigitaj
-en verko (aŭ produkto) bazita sur ĉi tiu programo por iu ajn.
+en verko (aŭ produkto) bazita sur ĉi tiu verko por iu ajn.
+
+4. Verkoj bazitaj sur ĉi tiu verko devas klare indiki
+ĉu ili estas rilataj aŭ ne rilataj kun oriĝinala aŭtoro.
+
+5. La verko estas provizata *kiel estas*, sen ajna eksplicita aŭ implicita garantio.
+Uzanto uzas la verkon je sia propra risko.
