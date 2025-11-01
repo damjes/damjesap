@@ -1,7 +1,7 @@
 DamjesaP – Damjesa Permesilo v. 1.9
 ===================================
 
-Vi havas kvar fundamentajn liberecojn:
+Ĉiu uzanto havas kvar fundamentajn liberecojn:
 
 0. La libereco uzi la programon por ajna celo.
 
