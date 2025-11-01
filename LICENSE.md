@@ -15,7 +15,7 @@ DamjesaP – Damjesa Permesilo v. 1.9
 
 2. Neniu rajtas nuligi aŭ limigi iun el la supraj liberecoj por iu ajn.
 
-3. Neniu rajtas permesi, ke tiuj liberecoj estu nuligitaj aŭ limigitaj
+3. Neniu rajtas permesi, ke tiuj liberecoj estu nuligitaj aŭ limigaj
 en verko (aŭ produkto) bazita sur ĉi tiu verko por iu ajn.
 
 4. Verkoj bazitaj sur ĉi tiu verko devas klare indiki
