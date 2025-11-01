@@ -1,6 +1,6 @@
 *Aceasta este traducerea oficială în limba română. Versiunea obligatorie este cea originală, în limba esperanto (fișierul `LICENSE.md`).*
 
-DamjesaP – Licența Damjesa v. 2.0
+DamjesaP – Licența Damjesană v. 2.0
 ===================================
 
 1. Fiecare utilizator are patru libertăți fundamentale:
