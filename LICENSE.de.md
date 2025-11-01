@@ -1,7 +1,7 @@
 *Das ist die offizielle deutsche Übersetzung. Die verbindliche Version ist das Original in Esperanto (Datei `LICENSE.md`).*
 
-DamjesaP – Damjesa-Lizenz v. 2.0
-================================
+DamjesaP – Damjes-Lizenz v. 2.0
+===============================
 
 1. Jeder Benutzer hat vier grundlegende Freiheiten:
 
@@ -28,6 +28,6 @@ Der Benutzer verwendet das Werk auf eigenes Risiko.
 
 ---
 
-Copyleft 2025 Damjes
+Copyleft 2025 Hw. Damjes
 
 Dieser Text selbst ist frei und darf unter denselben Bedingungen weiterverbreitet werden.
