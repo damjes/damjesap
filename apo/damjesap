@@ -1,0 +1,117 @@
+#!/usr/bin/env ruby
+
+require 'open-uri'
+require 'optparse'
+
+BAZA_URL = 'https://raw.githubusercontent.com/damjes/damjesap/refs/heads/master/'
+
+TRADUKOJ = {
+	'eo' => 'Oficiala Esperanta traduko',
+	'de' => 'Deutsche Übersetzung',
+	'en' => 'English translation',
+	'es' => 'Traducción al español',
+	'md' => 'traducere în moldovenească (latinică)',
+	'md-cyr' => 'традукчере на молдовеняскэ (кириллица)',
+	'ms-lat' => 'prevod na medžuslovjanski (latinica)',
+	'ms-gla' => 'ⱂⱃⰵⰲⱁⰴⱏ ⱀⰰ ⱁⰵⰷⰹⰽⱏ ⰿⰵⱑⱁⱆⱄⰾⱁⰲⱁⰰⱀⱄⰽⱏⰺ (ⰳⱃⰰⰾⱁⱅⱏ)',
+	'ms-cyr' => 'прѣводъ на меджусловѧньскꙗи (кирилица)',
+	'pl' => 'Tłumaczenie na język polski',
+	'ro-cyr' => 'традꙋчерѣ офичиалъ ꙟ лимба ромынъ (кирилица)',
+	'ro' => 'traducere oficială în limba română (latinică)',
+	'ru' => 'официальный перевод на язык вражды'
+}
+
+SUBTENITAJ_VCS = ['git']
+DEFAŬLTA_VCS = 'git'
+
+$kodoj_por_elŝuti = TRADUKOJ.keys[0..0] # defaŭlta kodo
+$elektita_vcs = nil
+$enmetmesaĝo = nil
+$alŝuto = false
+$dosieroj = []
+
+OptionParser.new do |opts|
+	opts.banner = 'Uzado: damjesap [opcioj]'
+
+	opts.on('-l', '--listu', 'Listu la haveblajn tradukojn') do
+		puts 'Haveblaj tradukoj:'
+		TRADUKOJ.each do |kodo, priskribo|
+			puts "#{kodo} \t- #{priskribo}"
+		end
+
+		exit 0
+	end
+
+	opts.on('-t KODOJ', '--tradukoj=KODOJ', Array, 'Elŝutu la tradukojn por la specifitaj lingvaj kodoj (multoblaj kodoj apartigitaj per komoj)') do |kodoj|
+		$kodoj_por_elŝuti = kodoj
+	end
+
+	opts.on('-e [VCS]', '--enmeto [VCS]', 'Aŭtomate enmetu en VCS sistemo') do |vcs|
+		if SUBTENITAJ_VCS.include?(vcs)
+			$elektita_vcs = vcs
+		else
+			puts "Averto: La versia kontrolo ' #{vcs.strip} ' ne estas subtenata. Ignorante ĉi tiun opcion."
+			$elektita_vcs = nil
+		end
+	end
+
+	opts.on('-m MESAĜO', '--mesaĝo MESAĜO', 'Mesaĝo por la enmeto al la fora VCS servilo (-e implicita)') do |mesaĝo|
+		$elektita_vcs = DEFAŬLTA_VCS if $elektita_vcs.nil?
+		$enmetmesaĝo = mesaĝo
+	end
+
+	opts.on('-a', '--alshutu', 'Alŝutu ĉiujn elŝutitajn dosierojn al fora VCS servilo (-e implicita)') do
+		$elektita_vcs = DEFAŬLTA_VCS if $elektita_vcs.nil?
+		$alŝuto = true
+	end
+end.parse!
+
+def elŝutado kodo
+	sufikso = ''
+
+	if kodo == 'eo'
+		sufikso = '.md'
+	else
+		sufikso = '.' + kodo.to_s + '.md'
+	end
+
+	priskribo = TRADUKOJ[kodo]
+
+	dosiernomo = 'LICENSE' + sufikso
+	$dosieroj << dosiernomo
+
+	url = BAZA_URL + dosiernomo
+
+	puts "Elŝutante #{dosiernomo} (#{priskribo})..."
+
+	URI.open(url) do |f|
+		File.write(dosiernomo, f.read)
+	end
+end
+
+$kodoj_por_elŝuti.each do |kodo|
+	if TRADUKOJ.key?(kodo)
+		elŝutado kodo
+	else
+		puts "Averto: La kodo '#{kodo}' ne estas valida kaj estos ignorita."
+	end
+end
+
+if $elektita_vcs == 'git'
+	system('git init') unless Dir.exist?('.git')
+
+	$dosieroj.each do |dosiernomo|
+		system("git add #{dosiernomo}")
+	end
+
+	if $enmetmesaĝo
+		system("git commit -m \"#{$enmetmesaĝo}\"")
+	elsif $alŝuto
+		system('git commit -m "Aŭtomata enmeto de elŝutitaj DamjesaP tradukoj."')
+	end
+
+	if $alŝuto
+		system('git push')
+	end
+end
+
