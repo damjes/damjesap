@@ -1,8 +1,8 @@
 _Das ist die offizielle deutsche Übersetzung. Die verbindliche Version ist das Original in Esperanto (Datei `LICENSE.md`)._
 
-# DamjesaP – Damjes-Lizenz v. 2.0
+# DamjesaP – Damjes-Lizenz v. 2.1
 
-1. Jeder Benutzer hat vier grundlegende Freiheiten:
+1. Jeder Benutzer hat vier grundlegende Freiheiten, die er unbefristet auf der ganzen Welt genießen darf:
 
     0. Die Freiheit, das Werk für jeden Zweck zu verwenden.
 
@@ -14,7 +14,7 @@ _Das ist die offizielle deutsche Übersetzung. Die verbindliche Version ist das 
     3. Die Freiheit, das Werk zu verbessern und die eigenen Verbesserungen mit allen zu teilen.
        Der Zugang zur Quellform des Werkes ist eine Voraussetzung für diese Freiheit.
 
-2. Niemand darf eine der oben genannten Freiheiten für irgendjemanden aufheben oder einschränken.
+2. Niemand darf eine der oben genannten Freiheiten für irgendjemanden aufheben oder einschränken, einschließlich der territorialen oder geografischen Einschränkung dieser Rechte.
 
 3. Niemand darf zulassen, dass diese Freiheiten in abgeleiteten Werken
    für irgendjemanden aufgehoben oder eingeschränkt werden.

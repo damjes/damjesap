@@ -1,8 +1,8 @@
 _To jest oficielnŷ pŕevod na jezik medžuslovjańskŷ. Obvezujųča jest versija originalna på jeziku Esperanto (fajl `LICENSE.md`)._
 
-# DamjesaP – Damjesova Licencija v. 2.0
+# DamjesaP – Damjesova Licencija v. 2.1
 
-1. Každŷ uživatelj ima četyŕi osnovnę svobådy:
+1. Každŷ uživatelj ima četyŕi osnovnę svobådy, kȯtorymy mȯže sę radovati bezterminovo po vsem světu:
 
     0. Svobåda koristiti děło za ľuboj cĩľ.
 
@@ -14,7 +14,7 @@ _To jest oficielnŷ pŕevod na jezik medžuslovjańskŷ. Obvezujųča jest versi
     3. Svobåda ulěpšati děło i děliti swoje ulěpšenja so všimy.  
        Dostupnosť do izhȯdnogo koda děła jest usłovje za tę svobådu.
 
-2. Niktȯ nima prȯva otkazati ili ogranići ktȯrekȯliv iz gȯrnyh svobåd dla kogȯkoliv.
+2. Niktȯ nima prȯva otkazati ili ogranići ktȯrekȯliv iz gȯrnyh svobåd dla kogȯkoliv, vkłučajući teritorialnǫ albo geografičnǫ ograničeńje pråv.
 
 3. Niktȯ nima prȯva dopustići, åby v ȯdvodźeńyh děłah  
    tę svobådy byly otkazane ili ograneńe dla kogȯkoliv.

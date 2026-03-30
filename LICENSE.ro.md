@@ -1,8 +1,8 @@
 _Aceasta este traducerea oficială în limba română. Versiunea obligatorie este cea originală, în limba esperanto (fișierul `LICENSE.md`)._
 
-# DamjesaP – Licența Damjesană v. 2.0
+# DamjesaP – Licența Damjesană v. 2.1
 
-1. Fiecare utilizator are patru libertăți fundamentale:
+1. Fiecare utilizator are patru libertăți fundamentale de care poate beneficia pe termen nelimitat în întreaga lume:
 
     0. Libertatea de a folosi lucrarea pentru orice scop.
 
@@ -14,7 +14,7 @@ _Aceasta este traducerea oficială în limba română. Versiunea obligatorie est
     3. Libertatea de a îmbunătăți lucrarea și de a împărtăși propriile îmbunătățiri cu toată lumea.
        Accesul la forma sursă a lucrării este o condiție prealabilă pentru această libertate.
 
-2. Nimeni nu are dreptul să anuleze sau să restricționeze oricare dintre libertățile de mai sus pentru oricine.
+2. Nimeni nu are dreptul să anuleze sau să restricționeze oricare dintre libertățile de mai sus pentru oricine, inclusiv prin restricționarea acestor drepturi teritorial sau geografic.
 
 3. Nimeni nu are dreptul să permită ca aceste libertăți să fie anulate sau restricționate
    pentru oricine, în lucrări derivate.

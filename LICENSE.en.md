@@ -1,8 +1,8 @@
 _This is the official English translation. The binding version is the original in Esperanto (file `LICENSE.md`)._
 
-# DamjesaP – Damjes' License v. 2.0
+# DamjesaP – Damjes' License v. 2.1
 
-1. Every user has four fundamental freedoms:
+1. Every user has four fundamental freedoms they may enjoy indefinitely throughout the entire world:
 
     0. The freedom to use the work for any purpose.
 
@@ -14,7 +14,7 @@ _This is the official English translation. The binding version is the original i
     3. The freedom to improve the work and to share one’s improvements with everyone.
        Access to the work’s source form is a precondition for this freedom.
 
-2. No one may revoke or restrict any of the above freedoms for anyone.
+2. No one may revoke or restrict any of the above freedoms for anyone, including by restricting these rights territorially or geographically.
 
 3. No one may allow these freedoms to be revoked or restricted
    for anyone in derivative works.
