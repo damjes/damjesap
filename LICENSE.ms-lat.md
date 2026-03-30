@@ -14,7 +14,7 @@ _To jest oficielnŷ pŕevod na jezik medžuslovjańskŷ. Obvezujųča jest versi
     3. Svobåda ulěpšati děło i děliti swoje ulěpšenja so všimy.  
        Dostupnosť do izhȯdnogo koda děła jest usłovje za tę svobådu.
 
-2. Niktȯ nima prȯva otkazati ili ogranići ktȯrekȯliv iz gȯrnyh svobåd dla kogȯkoliv, vkłučajući teritorialnǫ albo geografičnǫ ograničeńje pråv.
+2. Niktȯ nima prȯva otkazati ili ogranići ktȯrekȯliv iz gȯrnyh svobåd dla kogȯkoliv, vključajuči teritorialnǫ albo geografičnǫ ograničeńje pråv.
 
 3. Niktȯ nima prȯva dopustići, åby v ȯdvodźeńyh děłah  
    tę svobådy byly otkazane ili ograneńe dla kogȯkoliv.
