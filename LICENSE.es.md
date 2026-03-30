@@ -1,8 +1,8 @@
 _Esta es la traducción oficial al idioma español. La versión vinculante es el original en esperanto (archivo `LICENSE.md`)._
 
-# DamjesaP – Licencia Damjesa v. 2.0
+# DamjesaP – Licencia Damjesa v. 2.1
 
-1. Cada usuario tiene cuatro libertades fundamentales:
+1. Cada usuario tiene cuatro libertades fundamentales de las que puede disfrutar indefinidamente en todo el mundo:
 
     0. La libertad de usar la obra para cualquier propósito.
 
@@ -14,7 +14,7 @@ _Esta es la traducción oficial al idioma español. La versión vinculante es el
     3. La libertad de mejorar la obra y compartir sus mejoras con todos.  
        El acceso a la forma fuente de la obra es una condición previa para esta libertad.
 
-2. Nadie tiene derecho a revocar ni a restringir ninguna de las libertades anteriores para nadie.
+2. Nadie tiene derecho a revocar ni a restringir ninguna de las libertades anteriores para nadie, incluida la restricción de estos derechos territorial o geográficamente.
 
 3. Nadie tiene derecho a permitir que dichas libertades sean revocadas o restringidas  
    para nadie en obras derivadas.
